@@ -1,4 +1,4 @@
-# Red Onion Foods Project Data
+# Red Onion Foods project data
 
 ## foods-data
 \- Foods [data link](https://github.com/FazleRabbiRana/dentacure-project-data/blob/main/dental-services-data/dental-services.json)\
