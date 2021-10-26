@@ -1,0 +1,146 @@
+ [
+  {
+    "id": 1,
+    "title": "Bagel and Cream Cheese",
+    "image": "https://i.ibb.co/3Bqhm8R/breakfast1.png",
+    "price": "6.99",
+    "description": "A bagel and cream cheese (also known as bagel with cream cheese) is a common food pairing in American cuisine, the cuisine of New York City, and American Jewish cuisine, consisting in its basic form of a sliced bagel spread with cream cheese. The bagel with cream cheese is traditionally and most commonly served open-faced, sliced horizontally and spread with cream cheese and other toppings in the middle.",
+    "mealType": "breakfast"
+  },
+  {
+    "id": 2,
+    "title": "Breakfast Sandwich",
+    "image": "https://i.ibb.co/x7VQwTk/breakfast2.png",
+    "price": "9.99",
+    "description": "Whatever you’re craving, we’ve got something here that’ll fill any breakfast-sandwich-shaped holes in your heart. We’re talking about the green delicious sandwich that’s zingy, hearty, and packed with a (subjectively) serious amount of your daily veg needs. The leveled-up PB&J that sneaks pecan butter and a little miso into the mix.",
+    "mealType": "breakfast"
+  },
+  {
+    "id": 3,
+    "title": "Baked Chicken Light",
+    "image": "https://i.ibb.co/C5vmXYc/breakfast3.png",
+    "price": "7.99",
+    "description": "Tender and full flavoured, our simple and easy baked chicken breast recipe uses skinless and boneless chicken breasts baked in the oven until golden and caramelised. For extra flavour, garlic butter mixes through the cooked pan juices to serve your chicken drizzled in the best sauce!",
+    "mealType": "breakfast"
+  },
+  {
+    "id": 4,
+    "title": "Eggs Benedict",
+    "image": "https://i.ibb.co/yFYxhp1/breakfast4.png",
+    "price": "8.99",
+    "description": "Eggs Benedict is a traditional American breakfast and brunch recipe that originated in New York City. It consists of an English muffin, cut in half, toasted, and topped with Canadian bacon, poached eggs, and classic French Hollandaise sauce. It's decadent, rich, and satisfying.",
+    "mealType": "breakfast"
+  },
+  {
+    "id": 5,
+    "title": "Toast Croissant Fried Egg",
+    "image": "https://i.ibb.co/SPGHL72/breakfast5.png",
+    "price": "19.99",
+    "description": "There is nothing more delicious than a Croissant Fried Egg in the morning – and they are so easy. I love how versatile this recipe is so you can personalize it with your favorite flavors. This warm Croissant Fried Egg is loaded with crispy bacon, white cheddar, avocado, and eggs.",
+    "mealType": "breakfast"
+  },
+  {
+    "id": 6,
+    "title": "Full Breakfast Fried Egg Toast Brunch",
+    "image": "https://i.ibb.co/ZxHFjMv/breakfast6.png",
+    "price": "3.99",
+    "description": "Let’s start simply with a fried egg on toast. A fried egg on toast may seem dull, but there are few things as satisfying or sublime as a really good fried egg on toast. It’s a breakfast that needs no innovation to make it great, just a little attention.",
+    "mealType": "breakfast"
+  },
+  {
+    "id": 7,
+    "title": "Healthy Meal Plan",
+    "image": "https://i.ibb.co/zGhQqNd/lunch1.png",
+    "price": "23.99",
+    "description": "A healthy eating plan gives your body the nutrients it needs every day while staying within your daily calorie goal for weight loss. A healthy eating plan also will lower your risk for heart disease and other health conditions.",
+    "mealType": "lunch"
+  },
+  {
+    "id": 8,
+    "title": "Fried Chicken Bento",
+    "image": "https://i.ibb.co/nPgJBCn/lunch2.png",
+    "price": "9.99",
+    "description": "The Japanese Bento Box is the ultimate meal prep, consumed by millions of Japanese people every day. Our bento is Chicken Karaage Bento.",
+    "mealType": "lunch"
+  },
+  {
+    "id": 9,
+    "title": "Tarragon Rubbed Salmon",
+    "image": "https://i.ibb.co/7KCDtmM/lunch3.png",
+    "price": "6.99",
+    "description": "Fresh nectarine salsa, made with jalapeño chiles, fresh lime juice, and chopped cilantro, livens up any grilled dish, especially succulent salmon fillets.",
+    "mealType": "lunch"
+  },
+  {
+    "id": 10,
+    "title": "Indian Lunch",
+    "image": "https://i.ibb.co/17N5nZ5/lunch4.png",
+    "price": "8.99",
+    "description": "The core of a typical Indian dinner (or lunch) is rice, or a flatbread, and or a lentil stew (dal). There will also be a vegetarian stew, and if non-vegetarian, a meat, chicken, or seafood curry. A pickle (achar), papad (a thin round “chip” made from chickpea flour and spices), and chutney round out the meal.",
+    "mealType": "lunch"
+  },
+  {
+    "id": 11,
+    "title": "Beef Steak",
+    "image": "https://i.ibb.co/0rDqDhX/lunch5.png",
+    "price": "15.99",
+    "description": "A beefsteak, often called just steak, is a flat cut of beef with parallel faces, usually cut perpendicular to the muscle fibers. In common restaurant service a single serving has a raw mass ranging from 120 to 600 grams. Beef steaks are usually grilled, pan-fried, or broiled.",
+    "mealType": "lunch"
+  },
+  {
+    "id": 12,
+    "title": "Honey Soy Glazed Salmon with Peppers",
+    "image": "https://i.ibb.co/RC6sJV0/lunch6.png",
+    "price": "7.99",
+    "description": "Need a new way to enjoy an old favorite? This honey soy glazed salmon is delectable and pairs perfectly with roasted mushrooms and peppers. This sweet and sticky Asian glaze would taste equally delicious on chicken or grilled veggies.",
+    "mealType": "lunch"
+  },
+  {
+    "id": 13,
+    "title": "Salmon with Grapefruit and Lentil Salad",
+    "image": "https://i.ibb.co/QN7zDjF/dinner2.png",
+    "price": "9.99",
+    "description": "Salmon and lentils are a familiar combo in French bistro cooking. Here they combine in a quick and easy salad. Flaked salmon with a grapefruit into the salad to keep it in an unique category.",
+    "mealType": "dinner"
+  },
+  {
+    "id": 14,
+    "title": "Lemony Salmon Piccata",
+    "image": "https://i.ibb.co/0mvmmcJ/dinner1.png",
+    "price": "10.99",
+    "description": "Creamy, rich, tangy and so delicious, this salmon piccata recipe is the perfect weeknight meal. Ready to serve in 30 minutes and all made in one pan, this is one tasty dinner.",
+    "mealType": "dinner"
+  },
+  {
+    "id": 15,
+    "title": "Pork Tenderloin Quinoa Pilaf",
+    "image": "https://i.ibb.co/Tmn2jP7/dinner3.png",
+    "price": "12.99",
+    "description": "This Jamaican Jerk Pork Tenderloin with quinoa pilaf, and black beans and vegetables is the perfect balance of a little spice and a lot of color. This tangy-meets-sweet combo of vinegar, marmalade, and mustard is also great for basting chicken or pork chops.",
+    "mealType": "dinner"
+  },
+  {
+    "id": 16,
+    "title": "French Fries with Cheese",
+    "image": "https://i.ibb.co/NnFrcLs/dinner4.png",
+    "price": "8.99",
+    "description": "Cheese fries or cheesy chips is a dish consisting of French fries covered in cheese, with the possible addition of various other toppings. Cheese fries are generally served as a lunch- or dinner-time meal. They can be found in fast-food locations, diners, and grills around the globe.",
+    "mealType": "dinner"
+  },
+  {
+    "id": 17,
+    "title": "Garlic Butter Baked Salmon",
+    "image": "https://i.ibb.co/JpjnZxf/dinner5.png",
+    "price": "6.99",
+    "description": "This Garlic Butter Baked Salmon dish makes tender, flaky salmon brushed with an incredible garlic butter sauce! Baked on a sheet pan with your favorite veggies, this dish takes just a few minutes of prep and makes a perfect weeknight dinner.",
+    "mealType": "dinner"
+  },
+  {
+    "id": 18,
+    "title": "Baked Chicken",
+    "image": "https://i.ibb.co/sgrYJ5K/dinner6.png",
+    "price": "9.99",
+    "description": "All of the ingredients together smothered all over your chicken breasts makes MAGIC and the perfect balance. The brown sugar lets the chicken sweat while baking, making our baked chicken breast even juicer! Much like our your favorite",
+    "mealType": "dinner"
+  }
+]
